@@ -14,6 +14,8 @@ Apache-2.0 licensed. See the [security policy](SECURITY.md) and [community code 
 
 [![agentRamen on OSSDrop](https://ossdrop.com/badge/agentramen)](https://ossdrop.com/tool/agentramen)
 
+[![HOL Guard](https://img.shields.io/endpoint?url=https%3A%2F%2Fhol.org%2Fapi%2Fregistry%2Fbadges%2Fplugin%3Fslug%3Dpalrajjp%252Fagentramen%26metric%3Dtrust)](https://hol.org/registry/plugins/palrajjp%2Fagentramen)
+
 agentRamen indexes source structure and Git history, then retrieves task-relevant files and excerpts. It is local-first by default: each developer keeps a private SQLite index. Teams can optionally publish sanitized, commit-pinned snapshots to a centrally hosted, OIDC-protected read-only MCP service.
 
 
