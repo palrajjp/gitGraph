@@ -9,12 +9,11 @@
 [![PyPI](https://img.shields.io/pypi/v/agentramen)](https://pypi.org/project/agentramen/)
 [![Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-4C8BF5.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/palrajjp/agentRamen?style=social)](https://github.com/palrajjp/agentRamen/stargazers)
+[![HOL Guard](https://img.shields.io/endpoint?url=https%3A%2F%2Fhol.org%2Fapi%2Fregistry%2Fbadges%2Fplugin%3Fslug%3Dpalrajjp%252Fagentramen%26metric%3Dtrust)](https://hol.org/registry/plugins/palrajjp%2Fagentramen)
 
 Apache-2.0 licensed. See the [security policy](SECURITY.md) and [community code of conduct](CODE_OF_CONDUCT.md).
 
 [![agentRamen on OSSDrop](https://ossdrop.com/badge/agentramen)](https://ossdrop.com/tool/agentramen)
-
-[![HOL Guard](https://img.shields.io/endpoint?url=https%3A%2F%2Fhol.org%2Fapi%2Fregistry%2Fbadges%2Fplugin%3Fslug%3Dpalrajjp%252Fagentramen%26metric%3Dtrust)](https://hol.org/registry/plugins/palrajjp%2Fagentramen)
 
 agentRamen indexes source structure and Git history, then retrieves task-relevant files and excerpts. It is local-first by default: each developer keeps a private SQLite index. Teams can optionally publish sanitized, commit-pinned snapshots to a centrally hosted, OIDC-protected read-only MCP service.
 
